@@ -1,7 +1,7 @@
 # Software-Engineering
 **Identifying system purpose and features - Topic 1** 
 
-[Project's Topic.pdf](https://github.com/Jokuchh/Software-Engineering/files/9032832/Project.s.Topic.pdf)
+- [Project's Topic.pdf](https://github.com/Jokuchh/Software-Engineering/files/9032832/Project.s.Topic.pdf)
 
 - Report for the first topic
 
@@ -10,7 +10,7 @@
 
 **Identifying system purpose and features - Topic 2**
 
-[Project's Topic 2.pdf](https://github.com/Jokuchh/Software-Engineering/files/9032843/Project.s.Topic.2.pdf)
+- [Project's Topic 2.pdf](https://github.com/Jokuchh/Software-Engineering/files/9032843/Project.s.Topic.2.pdf)
 
 - Report for the second topic
 
